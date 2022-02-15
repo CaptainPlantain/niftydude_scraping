@@ -1,0 +1,539 @@
+id,name,count,rarity
+100,skateboard,5,0.0048828125
+101,owl,88,0.0859375
+102,ananas,34,0.033203125
+103,piece of shit,12,0.01171875
+104,sunflower,5,0.0048828125
+105,ice cream cone left hand,45,0.0439453125
+106,bloody golden knive,40,0.0390625
+107,violet hookah,53,0.0517578125
+108,red balloon,103,0.1005859375
+109,dumbbell in left hand,23,0.0224609375
+110,bloody sword,20,0.01953125
+111,green bottle,79,0.0771484375
+112,trident,5,0.0048828125
+113,pitchfork,4,0.00390625
+114,crowbar,47,0.0458984375
+115,rifle,54,0.052734375
+116,money bag in left hand,170,0.166015625
+117,black brief case,34,0.033203125
+118,dynamite,6,0.005859375
+119,fish,54,0.052734375
+120,boombox,125,0.1220703125
+121,walking stick,76,0.07421875
+122,cactus,39,0.0380859375
+123,ice cream cone in right hand,44,0.04296875
+124,magic wand,5,0.0048828125
+125,tulip,23,0.0224609375
+126,knive,38,0.037109375
+127,basketball,4,0.00390625
+128,green hookah,35,0.0341796875
+129,blue balloon,61,0.0595703125
+130,banana,72,0.0703125
+131,dumbbell in right hand,25,0.0244140625
+132,sword in right hand,37,0.0361328125
+133,beer in right hand,21,0.0205078125
+134,brown bottle,2,0.001953125
+135,letter,26,0.025390625
+136,anchor,28,0.02734375
+137,leather briefcase,12,0.01171875
+138,money bag in right hand,110,0.107421875
+139,black boots,65,0.0634765625
+140,pink boots,19,0.0185546875
+141,orange boots,15,0.0146484375
+142,white boots,100,0.09765625
+143,sand boots,21,0.0205078125
+144,yellow rubber boots,36,0.03515625
+145,green rubber boots,40,0.0390625
+146,sandals,114,0.111328125
+147,blue uggs,44,0.04296875
+148,green uggs,6,0.005859375
+149,sand uggs,1,0.0009765625
+150,brown boots,3,0.0029296875
+151,black loafer,67,0.0654296875
+152,brown loafer,51,0.0498046875
+153,violet sneakers,1,0.0009765625
+154,yellow sneakers,19,0.0185546875
+155,white sneakers,113,0.1103515625
+156,black sneakers,89,0.0869140625
+157,green sneakers,27,0.0263671875
+158,red sneakers,11,0.0107421875
+159,grey sneakers,3,0.0029296875
+160,black cowboy boots,4,0.00390625
+161,white cowboy boots,0,0.0
+162,brown cowboy boots,4,0.00390625
+163,red bobble hat,9,0.0087890625
+164,blue bobble hat,39,0.0380859375
+165,cook hat,2,0.001953125
+166,prison hat,15,0.0146484375
+167,police hat,35,0.0341796875
+168,crown,1,0.0009765625
+169,black beanie,83,0.0810546875
+170,green beanie,14,0.013671875
+171,white beanie,12,0.01171875
+172,red beanie,38,0.037109375
+173,white cowboy hat,32,0.03125
+174,brown cowboy hat,60,0.05859375
+175,panama hat,18,0.017578125
+176,graduate hat,15,0.0146484375
+177,white basecap,14,0.013671875
+178,gold basecap,10,0.009765625
+179,green basecap,3,0.0029296875
+180,blue basecap,28,0.02734375
+181,black basecap,53,0.0517578125
+182,red basecap,8,0.0078125
+183,orange basecap,4,0.00390625
+184,pink basecap,35,0.0341796875
+185,blue forward cap,2,0.001953125
+186,grey forward cap,42,0.041015625
+187,maga cap,49,0.0478515625
+188,christmas hat,11,0.0107421875
+189,cat on head,7,0.0068359375
+190,tophat,64,0.0625
+191,sombrero,10,0.009765625
+192,sun hat,29,0.0283203125
+193,pirate hat,16,0.015625
+194,rasta hat,6,0.005859375
+195,nurse hat,39,0.0380859375
+196,viking helmet,5,0.0048828125
+197,safety helmet,1,0.0009765625
+198,tinfoil hat,14,0.013671875
+199,violet shades,77,0.0751953125
+200,black shades,144,0.140625
+201,white glasses,18,0.017578125
+202,gold glasses,89,0.0869140625
+203,blue glasses,86,0.083984375
+204,green glasses,74,0.072265625
+205,pink glasses,56,0.0546875
+206,orange glasses,42,0.041015625
+207,red glasses,66,0.064453125
+208,black glasses,5,0.0048828125
+209,mirror glasses,14,0.013671875
+210,nerd glasses,50,0.048828125
+211,chicken,82,0.080078125
+212,parrot,39,0.0380859375
+213,black bandana,12,0.01171875
+214,red bandana,21,0.0205078125
+215,blue bandana,38,0.037109375
+216,pipe,105,0.1025390625
+217,cigar,18,0.017578125
+218,cigarette,112,0.109375
+219,violet-yellow headband,34,0.033203125
+220,red-white headband,32,0.03125
+221,face mask,44,0.04296875
+222,eye mask,76,0.07421875
+223,eye patch,3,0.0029296875
+224,black braces,21,0.0205078125
+225,white braces,18,0.017578125
+226,red braces,42,0.041015625
+227,red scarf,2,0.001953125
+228,black scarf,7,0.0068359375
+229,white scarf,18,0.017578125
+230,white parisian scarf,35,0.0341796875
+231,black parisian scarf,22,0.021484375
+232,red parisian scarf,2,0.001953125
+233,chain with clock,19,0.0185546875
+234,chain with cross upside down,37,0.0361328125
+235,chain with cross,75,0.0732421875
+236,blue messy tie,3,0.0029296875
+237,black messy tie,1,0.0009765625
+238,red messy tie,24,0.0234375
+239,red tie,4,0.00390625
+240,black tie,8,0.0078125
+241,blue tie,5,0.0048828125
+242,golden key chain,109,0.1064453125
+243,silver key chain,32,0.03125
+244,boxing belt,17,0.0166015625
+245,leather belt,83,0.0810546875
+246,gold chain,32,0.03125
+247,rings,78,0.076171875
+248,bracelet right arm,6,0.005859375
+249,bracelet left arm,29,0.0283203125
+250,handcuffs,12,0.01171875
+251,gloves,25,0.0244140625
+252,undershirt,16,0.015625
+253,dirty undershirt,17,0.0166015625
+254,bloody undershirt,27,0.0263671875
+255,white muscle shirt,17,0.0166015625
+256,pink rainbow shirt,16,0.015625
+257,white rainbow shirt,21,0.0205078125
+258,black rainbow shirt,1,0.0009765625
+259,grey muscle shirt,24,0.0234375
+260,blue-white sport shirt,3,0.0029296875
+261,yellow-black sport shirt,0,0.0
+262,violet-yellow sport shirt,8,0.0078125
+263,red sport shirt,13,0.0126953125
+264,gold cape,32,0.03125
+265,blue cape,54,0.052734375
+266,white cape,6,0.005859375
+267,green cape,33,0.0322265625
+268,red cape,8,0.0078125
+269,green bra,6,0.005859375
+270,gold bra,2,0.001953125
+271,pink bra,4,0.00390625
+272,black bra,13,0.0126953125
+273,red bra,11,0.0107421875
+274,spido shirt,21,0.0205078125
+275,red spaghetti top,0,0.0
+276,green spaghetti top,5,0.0048828125
+277,black belly free shirt,0,0.0
+278,white belly free shirt,15,0.0146484375
+279,police uniform,22,0.021484375
+280,red-white striped shirt,1,0.0009765625
+281,blue-white striped shirt,2,0.001953125
+282,open black shirt,53,0.0517578125
+283,open blue shirt,5,0.0048828125
+284,open green shirt,4,0.00390625
+285,open violet shirt,1,0.0009765625
+286,open yellow shirt,4,0.00390625
+287,open pink shirt,17,0.0166015625
+288,open white shirt,5,0.0048828125
+289,bellboy jacket,0,0.0
+290,white nipple free shirt,0,0.0
+291,pink nipple free shirt,14,0.013671875
+292,blue nipple free shirt,2,0.001953125
+293,open black shirt with red knobs,29,0.0283203125
+294,open grey shirt,14,0.013671875
+295,nurse shirt,5,0.0048828125
+296,white heart shirt,28,0.02734375
+297,yellow heart shirt,10,0.009765625
+298,black bitcoin shirt,29,0.0283203125
+299,red bitcoin shirt,11,0.0107421875
+300,white shirt,13,0.0126953125
+301,vertical striped blue-white shirt,0,0.0
+302,vertical striped yellow-white shirt,2,0.001953125
+303,vertical striped red-white shirt,7,0.0068359375
+304,grey shirt,2,0.001953125
+305,orange prison shirt,0,0.0
+306,black-white prison shirt,25,0.0244140625
+307,open camouflage shirt,24,0.0234375
+308,camouflage longsleeve,0,0.0
+309,longsleeve with red stripes,8,0.0078125
+310,green bulletproof vest,26,0.025390625
+311,dark bulletproof vest,23,0.0224609375
+312,felt jacket,0,0.0
+313,blue jacket,1,0.0009765625
+314,plaid jacket,2,0.001953125
+315,black jacket with blue shirt,2,0.001953125
+316,green jacket,3,0.0029296875
+317,yellow jacket,12,0.01171875
+318,violet jacket,1,0.0009765625
+319,red jacket,0,0.0
+320,black jacket,38,0.037109375
+321,colorful longsleeve,20,0.01953125
+322,colorful longsleeve with dark background,23,0.0224609375
+323,anchor longsleeve,2,0.001953125
+324,black longsleeve with skull,35,0.0341796875
+325,white longsleeve with skull,0,0.0
+326,pink longsleeve,21,0.0205078125
+327,black longsleeve with alien,15,0.0146484375
+328,white longsleeve,24,0.0234375
+329,green longsleeve,17,0.0166015625
+330,yellow longsleeve with smile,7,0.0068359375
+331,yellow longsleeve,0,0.0
+332,red longsleeve,3,0.0029296875
+333,black longsleeve,28,0.02734375
+334,blue longsleeve,1,0.0009765625
+335,safety vest,10,0.009765625
+336,black socks,6,0.005859375
+337,white socks,20,0.01953125
+338,yellow-white socks,39,0.0380859375
+339,green-white socks,3,0.0029296875
+340,blue-white socks,24,0.0234375
+341,red-white socks,42,0.041015625
+342,pink socks,11,0.0107421875
+343,red overknee socks,32,0.03125
+344,diaper,4,0.00390625
+345,pissed white pants,30,0.029296875
+346,plaid boxer shorts,24,0.0234375
+347,red-black boxer shorts,11,0.0107421875
+348,striped boxer shorts,25,0.0244140625
+349,grey boxer shorts,4,0.00390625
+350,pink string,2,0.001953125
+351,green string,16,0.015625
+352,red string,27,0.0263671875
+353,blue string,2,0.001953125
+354,gold string,4,0.00390625
+355,black string,27,0.0263671875
+356,white string,2,0.001953125
+357,red hot pants,3,0.0029296875
+358,black fishnet,9,0.0087890625
+359,red fishnet,13,0.0126953125
+360,red sport shorts,27,0.0263671875
+361,violet-yellow sport shorts,31,0.0302734375
+362,spido pants,15,0.0146484375
+363,split pants,6,0.005859375
+364,blue shorts,1,0.0009765625
+365,green shorts,7,0.0068359375
+366,white shorts,1,0.0009765625
+367,yellow shorts,3,0.0029296875
+368,pink shorts,5,0.0048828125
+369,black shorts,49,0.0478515625
+370,white pants,13,0.0126953125
+371,plaid black-white pants,50,0.048828125
+372,plaid black-red pants,6,0.005859375
+373,black-white prison pants,35,0.0341796875
+374,orange prison pants,26,0.025390625
+375,blue jeans,45,0.0439453125
+376,plaid red-white shorts,5,0.0048828125
+377,plaid black-white shorts,40,0.0390625
+378,plaid red-black shorts,25,0.0244140625
+379,plaid green-black shorts,29,0.0283203125
+380,camouflage pants,4,0.00390625
+381,beige pants,1,0.0009765625
+382,blue pants,70,0.068359375
+383,pink pants,37,0.0361328125
+384,brown pants,4,0.00390625
+385,black pants,48,0.046875
+386,yellow pants,11,0.0107421875
+387,green pants,37,0.0361328125
+388,red pants,19,0.0185546875
+389,cyborg,0,0.0
+390,silver eyebrow piercing left,2,0.001953125
+391,silver eyebrow piercing right,18,0.017578125
+392,golden eyebrow piercing right,73,0.0712890625
+393,golden eyebrow piercing left,16,0.015625
+394,silver stud earring right,41,0.0400390625
+395,silver stud earring left,7,0.0068359375
+396,large earring left,70,0.068359375
+397,large earring right,70,0.068359375
+398,golden stud earring right,28,0.02734375
+399,golden stud earring left,84,0.08203125
+400,belly button piercing,49,0.0478515625
+401,nipple piercing,3,0.0029296875
+402,nipple chain,14,0.013671875
+403,silver nosering,22,0.021484375
+404,golden nosering,26,0.025390625
+405,gouged eye left,17,0.0166015625
+406,gouged eye right,89,0.0869140625
+407,blue eye left,62,0.060546875
+408,blue eye right,7,0.0068359375
+409,shoulder scar,91,0.0888671875
+410,face scar,4,0.00390625
+411,belly scar,7,0.0068359375
+412,arm scar,7,0.0068359375
+413,tattoos on left leg,12,0.01171875
+414,tattoos on right leg,5,0.0048828125
+415,tattoos on left arm,30,0.029296875
+416,tattoos on right arm,23,0.0224609375
+417,skull tattoo black,7,0.0068359375
+418,skull tattoo black-white,10,0.009765625
+419,heart tattoo,3,0.0029296875
+420,bitcoin tattoo,89,0.0869140625
+421,rainbow tattoo,0,0.0
+422,silver genital piercing,34,0.033203125
+423,golden genital piercing,10,0.009765625
+424,body hair,36,0.03515625
+425,pimples,8,0.0078125
+426,fringe black,0,0.0
+427,fringe brown,1,0.0009765625
+428,fringe grey,8,0.0078125
+429,fringe red,17,0.0166015625
+430,fringe blonde,14,0.013671875
+431,light brown residual hair,3,0.0029296875
+432,red residual hair,7,0.0068359375
+433,grey residual hair,4,0.00390625
+434,blonde residual hair,5,0.0048828125
+435,black horseshoe hairline,9,0.0087890625
+436,light brown horseshoe hairline,6,0.005859375
+437,red horseshoe hairline,3,0.0029296875
+438,grey horseshoe hairline,8,0.0078125
+439,blonde horseshoe hairline,12,0.01171875
+440,red blowout,14,0.013671875
+441,light brown blowout,15,0.0146484375
+442,black blowout,27,0.0263671875
+443,grey blowout,2,0.001953125
+444,blonde blowout,0,0.0
+445,long curls grey,21,0.0205078125
+446,long curls red,17,0.0166015625
+447,long curls black,9,0.0087890625
+448,long curls light brown,2,0.001953125
+449,long curls blonde,2,0.001953125
+450,red stubbles,4,0.00390625
+451,blonde stubbles,3,0.0029296875
+452,black stubbles,15,0.0146484375
+453,black sidecut,2,0.001953125
+454,light brown sidecut,3,0.0029296875
+455,red sidecut,6,0.005859375
+456,grey sidecut,2,0.001953125
+457,blonde sidecut,1,0.0009765625
+458,double mohawk,2,0.001953125
+459,blonde mohawk,1,0.0009765625
+460,black mohawk,17,0.0166015625
+461,red mohawk,13,0.0126953125
+462,blue mohawk,14,0.013671875
+463,green mohawk,5,0.0048828125
+464,red buzzcut,1,0.0009765625
+465,black buzzcut,2,0.001953125
+466,brown buzzcut,6,0.005859375
+467,blonde buzzcut,0,0.0
+468,dark brown bowl,6,0.005859375
+469,light brown bowl,7,0.0068359375
+470,grey bowl,9,0.0087890625
+471,black bowl,10,0.009765625
+472,red bowl,6,0.005859375
+473,blonde bowl,0,0.0
+474,wild grey hair,1,0.0009765625
+475,wild orange hair,23,0.0224609375
+476,wild pink hair,3,0.0029296875
+477,wild black hair,41,0.0400390625
+478,wild blue hair,6,0.005859375
+479,wild red hair,1,0.0009765625
+480,wild green hair,2,0.001953125
+481,wild dark brown hair,0,0.0
+482,wild light brown hair,20,0.01953125
+483,wild blonde hair,12,0.01171875
+484,flat top red,1,0.0009765625
+485,flat top black,21,0.0205078125
+486,flat top blonde,11,0.0107421875
+487,flat top light brown,18,0.017578125
+488,flat top grey,8,0.0078125
+489,straight long black hair,19,0.0185546875
+490,straight long light brown hair,4,0.00390625
+491,straight long red hair,7,0.0068359375
+492,straight long grey hair,0,0.0
+493,straight long blonde hair,5,0.0048828125
+494,pigtail,22,0.021484375
+495,grey messy hair,1,0.0009765625
+496,red messy hair,1,0.0009765625
+497,light brown messy hair,12,0.01171875
+498,black messy hair,17,0.0166015625
+499,blonde messy hair,1,0.0009765625
+500,short brown fringe,20,0.01953125
+501,short red fringe,0,0.0
+502,short light brown fringe,5,0.0048828125
+503,short black fringe,18,0.017578125
+504,short blonde fringe,13,0.0126953125
+505,sharp dark brown flattop,1,0.0009765625
+506,sharp light brown flattop,10,0.009765625
+507,sharp black flattop,20,0.01953125
+508,sharp red flattop,11,0.0107421875
+509,sharp blonde flattop,10,0.009765625
+510,shoulder-length orange hair,0,0.0
+511,shoulder-length pink hair,18,0.017578125
+512,shoulder-length black hair,20,0.01953125
+513,shoulder-length blue hair,10,0.009765625
+514,shoulder-length green hair,7,0.0068359375
+515,shoulder-length red hair,4,0.00390625
+516,shoulder-length dark brown hair,14,0.013671875
+517,shoulder-length light brown hair,9,0.0087890625
+518,shoulder-length blonde hair,24,0.0234375
+519,dark brown pompadour,5,0.0048828125
+520,red pompadour,10,0.009765625
+521,black pompadour,0,0.0
+522,light brown pompadour,1,0.0009765625
+523,blonde pompadour,4,0.00390625
+524,wide mouth with missing teeth,3,0.0029296875
+525,wide mouth with gold teeth,76,0.07421875
+526,wide mouth with missing incisors,92,0.08984375
+527,wide mouth with one teeth,61,0.0595703125
+528,wide mouth,128,0.125
+529,quiet smile,20,0.01953125
+530,smile,207,0.2021484375
+531,sad mouth,66,0.064453125
+532,sceptical mouth,48,0.046875
+533,staggered mouth with gold teeth,63,0.0615234375
+534,staggered mouth with black teeth,0,0.0
+535,staggered mouth,29,0.0283203125
+536,long red beard,25,0.0244140625
+537,long black beard,58,0.056640625
+538,long light brown beard,26,0.025390625
+539,long brown beard,31,0.0302734375
+540,long grey beard,1,0.0009765625
+541,long blonde beard,21,0.0205078125
+542,blonde beard,16,0.015625
+543,grey beard,22,0.021484375
+544,brown beard,0,0.0
+545,red beard,2,0.001953125
+546,light brown beard,5,0.0048828125
+547,red goatee,10,0.009765625
+548,light brown goatee,5,0.0048828125
+549,blonde goatee,13,0.0126953125
+550,grey goatee,0,0.0
+551,brown goatee,14,0.013671875
+552,van dyke red,9,0.0087890625
+553,van dyke blonde,14,0.013671875
+554,van dyke grey,7,0.0068359375
+555,van dyke light brown,12,0.01171875
+556,van dyke brown,0,0.0
+557,red zappa beard,19,0.0185546875
+558,blonde zappa beard,4,0.00390625
+559,grey zappa beard,5,0.0048828125
+560,light brown zappa beard,12,0.01171875
+561,brown zappa beard,16,0.015625
+562,red dali beard,6,0.005859375
+563,blonde dali beard,9,0.0087890625
+564,grey dali beard,17,0.0166015625
+565,light brown dali beard,11,0.0107421875
+566,brown dali beard,0,0.0
+567,brown handlebar,14,0.013671875
+568,light brown handlebar,4,0.00390625
+569,grey handlebar,9,0.0087890625
+570,red handlebar,15,0.0146484375
+571,blonde handlebar,7,0.0068359375
+572,grey mustache,5,0.0048828125
+573,red mustache,1,0.0009765625
+574,blonde mustache,8,0.0078125
+575,light brown mustache,9,0.0087890625
+576,brown mustache,6,0.005859375
+577,petite goatee light brown,16,0.015625
+578,petite goatee red,24,0.0234375
+579,petite goatee grey,10,0.009765625
+580,petite goatee brown,36,0.03515625
+581,petite goatee blonde,25,0.0244140625
+582,red extended handlebar,10,0.009765625
+583,grey extended handlebar,15,0.0146484375
+584,light brown extended handlebar,9,0.0087890625
+585,blonde extended handlebar,12,0.01171875
+586,grey mutton chops,4,0.00390625
+587,light brown mutton chops,20,0.01953125
+588,red mutton chops,9,0.0087890625
+589,brown mutton chops,6,0.005859375
+590,blonde mutton chops,16,0.015625
+591,light brown chin strap,3,0.0029296875
+592,grey chin strap,14,0.013671875
+593,red chin strap,1,0.0009765625
+594,blonde chin strap,3,0.0029296875
+595,light brown dutch beard,0,0.0
+596,red dutch beard,19,0.0185546875
+597,grey dutch beard,0,0.0
+598,blonde dutch beard,11,0.0107421875
+599,brown dutch beard,8,0.0078125
+600,white eyes,264,0.2578125
+601,grey eyes,40,0.0390625
+602,brown eyes,167,0.1630859375
+603,green eyes,160,0.15625
+604,red eyes,49,0.0478515625
+605,blue eyes,109,0.1064453125
+606,white skin with penis,111,0.1083984375
+607,white skin without genitals,45,0.0439453125
+608,white skin with vagina,36,0.03515625
+609,zombie with penis,92,0.08984375
+610,zombie without genitals,95,0.0927734375
+611,zombie with vagina,43,0.0419921875
+612,dark brown skin with penis,35,0.0341796875
+613,dark brown skin with vagina,21,0.0205078125
+614,dark brown skin without genitals,27,0.0263671875
+615,piggy skin with vagina,47,0.0458984375
+616,piggy skin without genitals,40,0.0390625
+617,piggy skin with penis,68,0.06640625
+618,ape with vagina,42,0.041015625
+619,ape without genitals,99,0.0966796875
+620,ape with penis,157,0.1533203125
+621,brown with penis,38,0.037109375
+622,brown with vagina,15,0.0146484375
+623,brown without genitals,13,0.0126953125
+1,default left hand,197,0.1923828125
+2,default right hand,187,0.1826171875
+3,default shoes,171,0.1669921875
+4,default hat,201,0.1962890625
+5,default glasses,303,0.2958984375
+6,default accessories,133,0.1298828125
+7,default top,152,0.1484375
+8,default bottom,121,0.1181640625
+9,default body,206,0.201171875
+10,default hair,192,0.1875
+11,default mouth,231,0.2255859375
+12,default beard,285,0.2783203125
+13,default eyes,235,0.2294921875
+14,default skin,0,0.0
